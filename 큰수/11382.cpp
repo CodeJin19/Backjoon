@@ -395,9 +395,9 @@ int main()
 {
 	string a, b, c;
 
-	cin >> a >> b >> c;
+   	cin >> a >> b >> c;
     
-    cout << add(add(a, b), c) << endl;
+   	cout << add(add(a, b), c) << endl;
     
 	return 0;
 }
