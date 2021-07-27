@@ -7,7 +7,7 @@ public class Main {
 		int sum = 0;
 		int num = 5;
 
-		while (num < n) {
+		while (num <= n) {
 			sum += (n / num);
 			num *= 5;
 		}
